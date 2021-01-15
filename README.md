@@ -1,6 +1,6 @@
 <a href="kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="http://radio.thequietus.com">The Quietus Radio</a> podcast.<br>
 
-<img src="https://podcastaddict.com/cache/artwork/thumb/1816383"><br>
+<img src="https://github.com/leopheard/TheQuietusRadio/blob/master/resources/media/logo.jpg"><br>
 
 The Quietus brings you a variety of new radio every week from co-founders Luke and John, reviews editor Anna Wood, news editor Christian Eede and special guest hosts<br>
 
